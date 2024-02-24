@@ -1,5 +1,4 @@
 # Passion_project_recipeManagement
-# Recipes_management_passion_project
 
 
 This project is a Recipe Management System developed using ASP.NET Entity Framework. It allows users to create, view, update, and delete recipes, as well as manage instructions associated with each recipe.
